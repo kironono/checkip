@@ -1,6 +1,12 @@
 [package]
 name = "checkip"
-version = "0.1.0"
+version = "0.0.1"
+authors = ["Junichi Kakisako <kilo.sw@gmail.com>"]
+description = "Remote ip checker."
+readme = "README.md"
+homepage = "https://github.com/kironono/checkip"
+repository = "https://github.com/kironono/checkip"
+license = "MIT"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
