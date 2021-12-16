@@ -2,6 +2,14 @@
 
 Remote IP checker.
 
+## Installation
+
+cargo install:
+
+```
+cargo install checkip
+```
+
 ## Usage
 
 ```
