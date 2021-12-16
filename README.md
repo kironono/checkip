@@ -1,5 +1,8 @@
 # `checkip`
 
+[![version](https://img.shields.io/crates/v/checkip)](https://crates.io/crates/checkip)
+[![license](https://img.shields.io/crates/l/checkip)](https://crates.io/crates/checkip)
+
 Remote IP checker.
 
 ## Installation
