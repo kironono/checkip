@@ -28,6 +28,11 @@ OPTIONS:
     -p, --port <port>          Runs server on the specified port [default: 8080]
 ```
 
+```
+$ curl -XGET http://localhost:8080/
+127.0.0.1
+```
+
 ## License
 
 `checkip` is distributed under the terms of the MIT license.
